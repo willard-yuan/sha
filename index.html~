@@ -101,7 +101,6 @@
             <h3>2013.07.02</h3>
             <div class="media">
 				<img src="./assets/daxuebiye-1.jpg" width="240" height="180">
-				<img src="./assets/biyeheyingwoheshasha.jpg" width="240" height="180">
             </div>
             <p>曲终人散，古城西安，再难在这里与你相遇</p>
             <p>Bye, XiDian; Hello, UCAS.</p>
@@ -183,7 +182,7 @@
             <h3>2009.09.28</h3>
 
             <div class="media">
-                <img src="assets/together.jpg" width="240" height="180">
+                 <img src="./assets/meet-me.jpg" width="240" height="180" alt="那时的zhengrong">
             </div>
             <p>莫名收到一条短信，原来是xiaoyang把我的手机号发给了你</p>
 			
@@ -202,8 +201,6 @@
 
             <div class="media">
                 <img src="./assets/meet-you.jpg"
-                     width="240" height="180" alt="那时的zhengrong">
-                <img src="./assets/meet-me.jpg"
                      width="240" height="180" alt="那时的zhengrong">
             </div>
             <p>上英语课，忘了带笔，你坐在我旁边的位置</p>
