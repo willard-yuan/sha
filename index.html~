@@ -30,11 +30,11 @@
             <h3>2014.10.04</h3>
 			
             <div class="media">
-				<img src="./assets/2014-09-13-shasha.jpeg" width="240" height="180">
+				<img src="./assets/2014-09-13-shasha.png" width="240" height="180">
             </div>
-            <p>物非人似,这儿不再是原来的样子</p>
-			   <p>看淡的很多,我们依然在努力前行</p>
-			   <p>很欣慰,我们相识5年</p>
+            <p>虽然,这儿已不再是原来的样子,</p>
+			   <p>虽然,看淡了很多,</p>
+			   <p>但5年的相识,可以沉淀这份迟到的友情</p>
             <br class="clear">
         </dd>
         <!-- /.timelineEvent -->
@@ -64,18 +64,18 @@
             <div class="media">
 				<img src="./assets/shenzhunxiangjian.jpg" width="240" height="180">
             </div>
-            <p>和旭国深圳一周游，再次相逢</p>
-			<p>精心制作的你的写真照，结果忘在车上了(囧)</p>
+            <p>和旭国深圳一周游，再次相逢,</p>
+			<p>精心制作的你的写真照，忘在车上了(囧)</p>
             <br class="clear">
         </dd>
         <!-- /.timelineEvent -->
     </dl>
     <!-- /.timelineMinor -->
     <dl class="timelineMinor">
-        <dt id="20130712"><a>你，踏上了深圳那片热土</a></dt>
+        <dt id="20130712"><a>你，踏上了深圳那片热土,</a></dt>
         <dd class="timelineEvent" id="20130712EX" style="display:none;">
             <h3>2013.07.12</h3>
-            <p>这天，写了一封信，可惜我好像忘了发给你</p>
+            <p>这天，写了一封信，忘了发给你,o(╯□╰)o</p>
 			<p></p>
             <br class="clear">
         </dd>
@@ -90,7 +90,7 @@
                 <img src="./assets/daxuebiye-2.jpg" width="240" height="180">
                 <img src="./assets/daxuebiye-3.jpg" width="240" height="180">
             </div>
-            <p>今天，你、我、201、505、504</p>
+            <p>这天，你、我、201、505、504,</p>
 			<p>我们拍了很多的毕业照</p>
             <br class="clear">
         </dd>
@@ -103,11 +103,11 @@
             <div class="media">
 				<img src="assets/shashahejianhua.jpg" width="240" height="180">
             </div>
-            <p>六月底的校园，充满了离别的伤感</p>
-			<p>我们一块在海棠6号楼底下送走了你</p>
-			<p>相送无言，透过车窗却看见了你的眼泪</p>
-			<p>再见，西电：再见，西安；再见，在这里我所认识的每一个人</p>
-			<p>会永远记得这四年你们给我的回忆，谢谢你们.(摘自你的空间)</p>
+            <p>六月底的校园，充满了离别的伤感,</p>
+			   <p>在海棠6号楼下,送走了你,</p>
+			   <p>相送无言，透过车窗却看见了你的眼泪.</p>
+			   <p>再见，西电：再见，西安；再见，在这里我所认识的每一个人,</p>
+			   <p>会永远记得这四年你们给我的回忆，谢谢你们.(摘自你的空间)</p>
             <br class="clear">
         </dd>
         <!-- /.timelineEvent -->
@@ -119,7 +119,7 @@
             <div class="media">
 				<img src="./assets/daxuebiye-1.jpg" width="240" height="180">
             </div>
-            <p>曲终人散，古城西安</p>
+            <p>古城西安,曲终人散</p>
             <p>Bye, XiDian; Hello, UCAS.</p>
             <br class="clear">
         </dd>
@@ -139,7 +139,7 @@
                      width="240" height="180">
             </div>
             <!-- /.media -->
-            <p>你、健华、我，浩楠，我们四个合作</p>
+            <p>你、健华、我，浩楠，我们四个合作,</p>
 			<p>完成了电波传播大报告作业(第二次愉快合作)</p>
             <br class="clear">
         </dd>
@@ -175,7 +175,7 @@
             <div class="media">
                 <img src="./assets/shujiashixi.jpg" width="240" height="180">
             </div>
-            <p>你、我、旭国、晓阳、小强</p>
+            <p>你、我、旭国、晓阳、小强,</p>
             <p>去你舅舅的营业厅里溜了一圈(打着实习的幌子,哈哈)</p>
         </dd>
     </dl>
@@ -200,13 +200,13 @@
             <div class="media">
                  <img src="./assets/meet-me.jpg" width="240" height="180" alt="那时的zhengrong">
             </div>
-            <p>收到你发来的第一条信息，原来是晓阳把我的手机号发给了你</p>
+            <p>收到你发来的第一条信息，原来是晓阳把我的手机号发给了你,</p>
 			
-			<p>才知道原来军训那段时间大家嚷着的“shasha”就是你</p>
+			   <p>才知道原来军训那段时间大家嚷着的“shasha”就是你,</p>
 			
-			<p>才知道原来我们是老乡</p>
+			   <p>才知道原来我们是老乡</p>
 			
-			<p>短信相聊甚好，往后的时光，你融入了我的生活</p>
+			   <p>短信相聊甚好，往后的时光，你融入了我的生活</p>
             <br class="clear">
         </dd>
     </dl>
@@ -219,9 +219,9 @@
                 <img src="./assets/meet-you.jpg"
                      width="240" height="180" alt="那时的zhengrong">
             </div>
-            <p>上英语课，忘了带笔，你坐在我旁边的位置</p>
+            <p>上英语课，忘了带笔，坐在我旁边位置的你,</p>
 
-            <p>你轻轻地将多余的笔递给我，可我却不知你是shasha</p>
+            <p>轻轻地将多余的笔递给我，那时我还不知道你</p>
 			
             <br class="clear">
         </dd>
@@ -234,7 +234,7 @@
         <dd class="timelineEvent" id="19880602EX" style="display: none;">
             <h3>1989.11.15</h3>
 
-            <p>这一天，湖北天门，一个漂亮的女孩出生了</p>
+            <p>这一天，湖北天门，一个名叫"shasha"的女孩出生了</p>
             <br class="clear">
         </dd>
     </dl>
@@ -246,7 +246,7 @@
         <dd class="timelineEvent" id="19871014EX" style="display: none;">
             <h3>1988.05.01</h3>
 
-            <p>这一天，湖北咸宁，某乡村，一个帅气的男孩出生了</p>
+            <p>这一天，湖北咸宁，一个"Yong Yuan"的男孩出生了</p>
             <br class="clear">
         </dd>
     </dl>
