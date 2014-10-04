@@ -121,10 +121,6 @@
             <div class="media">
                 <img src="assets/2013-new-year.jpg"
                      width="240" height="180">
-                <img src="./assets/2013-new-year-1.jpg"
-                     width="240" height="180">
-                <img src="./assets/2013-new-year-2.jpg"
-                     width="240" height="180">
             </div>
             <!-- /.media -->
             <p>你、我，jianhua、haonan，我们四个合作一起</p>
@@ -176,8 +172,6 @@
         <dd class="timelineEvent" id="20091115EX" style="display: none;">
             <h3>2009.11.15</h3>
             <div class="media">
-                <img src="assets/meet-again-1.jpg" width="240" height="180">
-                <img src="assets/meet-again-2.jpg" width="240" height="180">
                 <img src="assets/meet-again-3.jpg" width="240" height="180">
             </div>
             <p>大学唯一一次没有聚餐的生日</p>
