@@ -28,7 +28,6 @@
         <dt id="20141004"><a>新转折</a></dt>
         <dd class="timelineEvent" id="20141004EX" style="display:none;">
             <h3>2014.10.04</h3>
-			
             <div class="media">
 				<img src="./assets/2014-09-13-shasha.png" width="240" height="180">
             </div>
@@ -39,6 +38,8 @@
         </dd>
         <!-- /.timelineEvent -->
     </dl>
+</div>
+<div class="timelineMajor">    
     <h2 class="timelineMajorMarker"><span>2013</span></h2>
     <!-- /.timelineMinor -->
     <dl class="timelineMinor">
@@ -50,8 +51,8 @@
 				<img src="./assets/shashaxiezhenzhao.jpg" width="240" height="180">
             </div>
             <p>你好，旧时光。</p>
-			<p>像大学四年你过的每个生日一样</p>
-			<p>送你一套我喜爱的书,一张写真照(PS技术还不错吧,哈哈)</p>
+			   <p>像大学四年你过的每个生日一样</p>
+			   <p>送你一套我喜爱的书,一张写真照(PS技术还不错吧,哈哈)</p>
             <br class="clear">
         </dd>
         <!-- /.timelineEvent -->
@@ -65,7 +66,7 @@
 				<img src="./assets/shenzhunxiangjian.jpg" width="240" height="180">
             </div>
             <p>和旭国深圳一周游，再次相逢,</p>
-			<p>精心制作的你的写真照，忘在车上了(囧)</p>
+			   <p>精心制作的你的写真照，忘在车上了(囧)</p>
             <br class="clear">
         </dd>
         <!-- /.timelineEvent -->
